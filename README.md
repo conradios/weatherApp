@@ -1,3 +1,3 @@
 # weatherApp
 Aplicacion del tiempo y geolocalizacion utilizando la api de openweather y google
-![image](https://user-images.githubusercontent.com/42498625/234472032-e2323c84-3e76-43ef-a280-95450df1c98b.png)
+![image](https://user-images.githubusercontent.com/42498625/234472539-89184f5d-79fa-4ced-9b1c-70c657cd85cd.png)
